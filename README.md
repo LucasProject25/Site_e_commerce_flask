@@ -29,5 +29,6 @@ Dans cette partie, je devais également gérer la même chose, le **stock et la 
 ## Accès au site
 Voici l'accès au site : [Site de vente](https://lfulcran2.pythonanywhere.com/)
 
-Côté client -> Lorsque vous arrivez sur la page de connexion, créez un nouvelle utilisateur **Inscription** pour pouvoir acheter vos articles. \n
+Côté client -> Lorsque vous arrivez sur la page de connexion, créez un nouvelle utilisateur **Inscription** pour pouvoir acheter vos articles. 
+<br>
 Côté admin -> Ici, au lieu de créer un utilisateur, connectez vous en temps qu'admin avec *admin* pour le pseudo et *admin* pour le password. Vous pourrez ainsi être du côté administrateur et gérer les articles.
