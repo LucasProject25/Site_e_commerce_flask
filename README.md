@@ -1,7 +1,7 @@
 # Site_e_commerce_flask
 
 ## Contexte
-Ce projet fait partie des différents projets de ***SAE (Situation d'Apprentissage en Entreprise)** lors de mon cursus. Durant mon semestre 2, nous avions dû réaliser, dans un groupe de 4 étudiant, un site web de e-commerce sous **Flask**, un framework HTML + Python pour faire des pages web HTML sous **un serveur**, contenant une base de donnée **SQ**L. Les pages HTML et du codes python étaient déjà créées par le professeur, nous avons donc dû réaliser la base de données puis dans le python, réaliser du code pour pouvoir insérer les bases de données et réaliser différentes actions (Ajouter un article, supprimer un article, etc) côté client et admin.
+Ce projet fait partie des différents projets de **SAE (Situation d'Apprentissage en Entreprise)** lors de mon cursus. Durant mon semestre 2, nous avions dû réaliser, dans un groupe de 4 étudiant, un site web de e-commerce sous **Flask**, un framework HTML + Python pour faire des pages web HTML sous **un serveur**, contenant une base de donnée **SQ**L. Les pages HTML et du codes python étaient déjà créées par le professeur, nous avons donc dû réaliser la base de données puis dans le python, réaliser du code pour pouvoir insérer les bases de données et réaliser différentes actions (Ajouter un article, supprimer un article, etc) côté client et admin.
 
 ## Objectifs du projet
 Pour ce projet, il y avait **plusieurs objectifs** à réaliser mais je vais expliquer dans les grandes lignes les objectifs.
