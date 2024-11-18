@@ -25,3 +25,9 @@ Du côté client, je devais faire en sorte que l'utilisateur puisse **sélection
 Dans cette partie, je devais également gérer la même chose, le **stock et la déclinaison**. Il fallait que l'administrateur puisse **ajouter du stock, ajouter une déclinaison, supprimer une déclinaison, la modifier, etc** puis ces différentes déclinaison, les **afficher dans une liste déroulante** lorsqu'il **ajoute ou modifie** un article et dans la partie des articles pouvoir **rajouter du stock** si une déclinaison était **en rupture**. Dans la gestion des commandes, il fallait qu'il puisse **voir la déclinaison et le stock que l'utilisateur a commandé**.
 
 **Note** : *J'ai expliqué l'objectif qui m'a le plus marqué. En effet, avant de pouvoir réaliser cette objectif, nous devions d'abord coder la gestion du panier, afficher la boutique côté client, etc.*
+
+## Accès au site
+Voici l'accès au site : [Site de vente](https://lfulcran2.pythonanywhere.com/)
+
+Côté client -> Lorsque vous arrivez sur la page de connexion, créez un nouvelle utilisateur **Inscription** pour pouvoir acheter vos articles.
+Côté admin -> Ici, au lieu de créer un utilisateur, connectez vous en temps qu'admin avec *admin* pour le pseudo et *admin* pour le password. Vous pourrez ainsi être du côté administrateur et gérer les articles.
